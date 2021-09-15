@@ -1,5 +1,7 @@
 import csv
 from datetime import datetime
+import pytz
+timezone = pytz.timezone("America/Los_Angeles")
 
 #final desired format
 # - Charts [["Test Name",<diff from avg>]]
@@ -82,7 +84,7 @@ html_string = Template("""<html>
 </body>
 </html>""")
 
-chart_heading_str = 'Test Results as of:    ' + datetime.now().strftime("%m/%d/%Y %H:%M")
+chart_heading_str = 'Test Results as of:    ' + datetime.now(timezone).strftime("%m/%d/%Y %H:%M")
 
 
 chart_data_str = ''                   #create a string
