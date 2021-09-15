@@ -1,0 +1,34 @@
+<html> 
+                                 
+
+<head>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+  google.charts.load('current', {packages: ['corechart']});
+  google.charts.setOnLoadCallback(drawChart);
+  function drawChart () {   
+      var data = google.visualization.arrayToDataTable([
+       ['Test Name', 'Pass', 'Fail'],
+       ['Test 01', 1, 0],
+['Test 02', 1, 0],
+['Test 03', 1, 0],
+['Test 04', 1, 0],
+
+      ],
+      false); // 'false' means that the first row contains labels, not data.
+        var options = {
+        title: 'Test Results as of:    09/15/2021 18:26'
+      };
+
+
+    var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+      chart.draw(data, options);
+   
+  }
+</script>
+</head>
+<body>
+<div id="chart_div" style="width:800; height:600">
+</div>
+</body>
+</html>
