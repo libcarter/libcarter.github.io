@@ -6,7 +6,8 @@ name: CI_Scheduled
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '*/15 * * * *'
+    - cron:  '15 8 * * *'
+    #- cron:  '*/15 * * * *'
     #- cron:  '30 5,17 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
