@@ -6,4 +6,5 @@ import Test_02
 import Test_03
 import Test_04
 import PublishTestResultsAtCheckin
+import PublishFourCharts
 
