@@ -41,7 +41,7 @@ else:
   result = "Fail"
   reason = "The API did not return status of 200" 
   note = "none"
-  expeced = "Verify API Returned status 200 with valid data"
+  expected = "Verify API Returned status 200 with valid data"
   
 
 
