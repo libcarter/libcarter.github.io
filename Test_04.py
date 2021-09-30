@@ -24,6 +24,7 @@ timeElapsed = (endTime - startTime)
 
 
 
+
 for each_key in resultsToCheck.keys():
   dataList.append(each_key)
 
@@ -38,7 +39,7 @@ if status == 200:
   elif dataList[0] == "activity":
     if timeElapsed.seconds <= 3:   
       #note = resultsToCheck["activity"]
-      note = timeElapsed
+      note = timeElapsed.microseconds / 1000000
       result = "Pass"
       reason = "The API returned status of 200 in less than 3 seconds"
       expected = "Verify api returned status 200 in less than 3 seconds"
