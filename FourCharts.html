@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    10/14/2021 08:32'
+        title: 'Last Test Results as of:    10/15/2021 08:32'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    10/14/2021 08:32'
+        title: 'Combined Results Last 4 Test Runs as of:    10/15/2021 08:32'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['10/10/21', 'Go to a nail salon'],
-['10/11/21', "Watch a movie you'd never usually watch"],
+      ['10/11/21', "Watch a movie you'd never usually watch"],
 ['10/12/21', 'Pot some plants and put them around your house'],
 ['10/13/21', 'Take a caffeine nap'],
 ['10/14/21', 'Pot some plants and put them around your house'],
+['10/15/21', 'Sit in the dark and listen to your favorite music with no distractions'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['10/05/21', 0.782031],
-['10/06/21', 0.526818],
+       ['10/06/21', 0.526818],
 ['10/07/21', 0.558267],
 ['10/08/21', 0.826476],
 ['10/09/21', 0.458112],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['10/12/21', 0.516674],
 ['10/13/21', 0.529827],
 ['10/14/21', 0.543824],
+['10/15/21', 0.568155],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    10/14/2021 08:32'
+        title: 'API Performance - Last 10 Results as of:    10/15/2021 08:32'
       };
 
 
