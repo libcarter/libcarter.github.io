@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    10/21/2021 08:57'
+        title: 'Last Test Results as of:    10/22/2021 08:32'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    10/21/2021 08:57'
+        title: 'Combined Results Last 4 Test Runs as of:    10/22/2021 08:32'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['10/17/21', 'Go for a walk'],
-['10/18/21', 'Go on a long drive with no music'],
+      ['10/18/21', 'Go on a long drive with no music'],
 ['10/19/21', 'Listen to a new podcast'],
 ['10/20/21', 'Pot some plants and put them around your house'],
 ['10/21/21', 'Sit in the dark and listen to your favorite music with no distractions'],
+['10/22/21', 'Write a list of things you are grateful for'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['10/12/21', 0.516674],
-['10/13/21', 0.529827],
+       ['10/13/21', 0.529827],
 ['10/14/21', 0.543824],
 ['10/15/21', 0.568155],
 ['10/16/21', 0.575024],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['10/19/21', 0.521387],
 ['10/20/21', 0.542186],
 ['10/21/21', 0.668775],
+['10/22/21', 0.588788],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    10/21/2021 08:57'
+        title: 'API Performance - Last 10 Results as of:    10/22/2021 08:32'
       };
 
 
