@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    10/23/2021 08:31'
+        title: 'Last Test Results as of:    10/24/2021 08:32'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    10/23/2021 08:31'
+        title: 'Combined Results Last 4 Test Runs as of:    10/24/2021 08:32'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['10/19/21', 'Listen to a new podcast'],
-['10/20/21', 'Pot some plants and put them around your house'],
+      ['10/20/21', 'Pot some plants and put them around your house'],
 ['10/21/21', 'Sit in the dark and listen to your favorite music with no distractions'],
 ['10/22/21', 'Write a list of things you are grateful for'],
 ['10/23/21', 'Sit in the dark and listen to your favorite music with no distractions'],
+['10/24/21', "Plan a vacation you've always wanted to take"],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['10/14/21', 0.543824],
-['10/15/21', 0.568155],
+       ['10/15/21', 0.568155],
 ['10/16/21', 0.575024],
 ['10/17/21', 0.583891],
 ['10/18/21', 0.771358],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['10/21/21', 0.668775],
 ['10/22/21', 0.588788],
 ['10/23/21', 0.764196],
+['10/24/21', 0.464312],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    10/23/2021 08:31'
+        title: 'API Performance - Last 10 Results as of:    10/24/2021 08:32'
       };
 
 
