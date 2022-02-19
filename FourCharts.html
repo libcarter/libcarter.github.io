@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    02/18/2022 07:31'
+        title: 'Last Test Results as of:    02/19/2022 07:31'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    02/18/2022 07:31'
+        title: 'Combined Results Last 4 Test Runs as of:    02/19/2022 07:31'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['02/14/22', 'Meditate for five minutes'],
-['02/15/22', 'Pot some plants and put them around your house'],
+      ['02/15/22', 'Pot some plants and put them around your house'],
 ['02/16/22', 'Take your dog on a walk'],
 ['02/17/22', 'Take a caffeine nap'],
 ['02/18/22', 'Give your pet ten minutes of focused attention'],
+['02/19/22', 'Look at pictures and videos of cute animals'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['02/09/22', 0.248921],
-['02/10/22', 0.253192],
+       ['02/10/22', 0.253192],
 ['02/11/22', 0.031],
 ['02/12/22', 0.041061],
 ['02/13/22', 0.033483],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['02/16/22', 0.029998],
 ['02/17/22', 0.244683],
 ['02/18/22', 0.244927],
+['02/19/22', 0.232726],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    02/18/2022 07:31'
+        title: 'API Performance - Last 10 Results as of:    02/19/2022 07:31'
       };
 
 
