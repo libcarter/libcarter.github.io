@@ -926,3 +926,7 @@ Test 01,Verify API Returned status 200 with valid data,02/19/22,15:31,Pass,200,T
 Test 02,Verify api returned status 200 but no data,02/19/22,15:31,Pass,200,There was an error but the API returned status 200,none
 Test 03,Verify api returned status 200 but no data,02/19/22,15:31,Pass,400,The API did not return status of 200,none
 Test 04,Verify api returned status 200 in less than 3 seconds,02/19/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.232726
+Test 01,Verify API Returned status 200 with valid data,02/20/22,15:30,Pass,200,The API returned status of 200 as expected,Write a list of things you are grateful for
+Test 02,Verify api returned status 200 but no data,02/20/22,15:30,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/20/22,15:30,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/20/22,15:30,Pass,200,The API returned status of 200 in less than 3 seconds,0.036553
