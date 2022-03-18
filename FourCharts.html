@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    03/17/2022 08:40'
+        title: 'Last Test Results as of:    03/18/2022 08:32'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    03/17/2022 08:40'
+        title: 'Combined Results Last 4 Test Runs as of:    03/18/2022 08:32'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['03/13/22', 'Meditate for five minutes'],
-['03/14/22', 'Give your pet ten minutes of focused attention'],
+      ['03/14/22', 'Give your pet ten minutes of focused attention'],
 ['03/15/22', 'Sit in the dark and listen to your favorite music with no distractions'],
 ['03/16/22', 'Take a caffeine nap'],
 ['03/17/22', "Watch a movie you'd never usually watch"],
+['03/18/22', 'Give your pet ten minutes of focused attention'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['03/08/22', 0.035997],
-['03/09/22', 0.237026],
+       ['03/09/22', 0.237026],
 ['03/10/22', 0.035857],
 ['03/11/22', 0.038497],
 ['03/12/22', 0.048006],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['03/15/22', 0.257908],
 ['03/16/22', 0.038426],
 ['03/17/22', 0.038997],
+['03/18/22', 0.038001],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    03/17/2022 08:40'
+        title: 'API Performance - Last 10 Results as of:    03/18/2022 08:32'
       };
 
 
