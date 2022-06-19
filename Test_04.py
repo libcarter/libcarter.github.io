@@ -9,7 +9,7 @@ import csv
 # collect results 
 # python "C:\Users\Libby\Desktop\Automation Testing\Test 04.py"
 
-url = "https://www.boredapi.com/api/activity?type=relaxation"
+url = "http://www.boredapi.com/api/activity?type=relaxation"
 
 # GET
 startTime = datetime.now()

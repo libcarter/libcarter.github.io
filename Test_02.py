@@ -10,7 +10,7 @@ import csv
 # python "C:\Users\Libby\Desktop\Automation Testing\Test_02.py"
 
 
-url = "https://www.boredapi.com/api/activity?participants=10"
+url = "http://www.boredapi.com/api/activity?participants=10"
 
 
 # GET
