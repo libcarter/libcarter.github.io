@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    06/19/2022 14:17'
+        title: 'Last Test Results as of:    06/19/2022 14:23'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    06/19/2022 14:17'
+        title: 'Combined Results Last 4 Test Runs as of:    06/19/2022 14:23'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['05/28/22', 'Color'],
-['05/29/22', 'Pot some plants and put them around your house'],
+      ['05/29/22', 'Pot some plants and put them around your house'],
 ['05/30/22', 'Sit in the dark and listen to your favorite music with no distractions'],
 ['06/19/22', 'Go to the library and find an interesting book'],
 ['06/19/22', 'Shop at support your local farmers market'],
+['06/19/22', 'Take a caffeine nap'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['05/23/22', 0.230138],
-['05/24/22', 0.231128],
+       ['05/24/22', 0.231128],
 ['05/25/22', 0.141317],
 ['05/26/22', 0.243587],
 ['05/27/22', 0.042998],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['05/30/22', 0.239585],
 ['06/19/22', 0.095],
 ['06/19/22', 0.161],
+['06/19/22', 0.037006],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    06/19/2022 14:17'
+        title: 'API Performance - Last 10 Results as of:    06/19/2022 14:23'
       };
 
 
