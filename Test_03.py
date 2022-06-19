@@ -9,7 +9,7 @@ import csv
 # capture the results 
 # python "C:\Users\Libby\Desktop\Automation Testing\SimpleGet.py"
 
-url = "https://api.nasa.gov/neo/rest/v1/feed?start_date=2015-13-07&end_date=2015-09-08&api_key=DEMO_KEY"
+url = "http://api.nasa.gov/neo/rest/v1/feed?start_date=2015-13-07&end_date=2015-09-08&api_key=DEMO_KEY"
 
 # GET
 response = requests.get(url)
