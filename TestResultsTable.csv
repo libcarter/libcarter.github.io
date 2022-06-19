@@ -346,3 +346,987 @@ Test 01,Verify API Returned status 200 with valid data,9/30/2021,13:54,Pass,200,
 Test 02,Verify api returned status 200 but no data,9/30/2021,13:54,Pass,200,There was an error but the API returned status 200,none
 Test 03,Verify api returned status 200 but no data,9/30/2021,13:54,Pass,400,The API did not return status of 200,none
 Test 04,Verify api returned status 200 in less than 3 seconds,9/30/2021,13:54,Pass,200,The API returned status of 200 in less than 3 seconds,0.892093
+Test 01,Verify API Returned status 200 with valid data,09/30/21,21:22,Pass,200,The API returned status of 200 as expected,Take a caffeine nap
+Test 02,Verify api returned status 200 but no data,09/30/21,21:22,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,09/30/21,21:22,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,09/30/21,21:22,Pass,200,The API returned status of 200 in less than 3 seconds,0.500621
+Test 01,Verify API Returned status 200 with valid data,10/01/21,15:32,Pass,200,The API returned status of 200 as expected,Write a list of things you are grateful for
+Test 02,Verify api returned status 200 but no data,10/01/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/01/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/01/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.873613
+Test 01,Verify API Returned status 200 with valid data,10/02/21,15:31,Pass,200,The API returned status of 200 as expected,Take your dog on a walk
+Test 02,Verify api returned status 200 but no data,10/02/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/02/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/02/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.514735
+Test 01,Verify API Returned status 200 with valid data,10/03/21,15:31,Pass,200,The API returned status of 200 as expected,Take your dog on a walk
+Test 02,Verify api returned status 200 but no data,10/03/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/03/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/03/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.683244
+Test 01,Verify API Returned status 200 with valid data,10/04/21,15:32,Pass,200,The API returned status of 200 as expected,Start a book you've never gotten around to reading
+Test 02,Verify api returned status 200 but no data,10/04/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/04/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/04/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.483131
+Test 01,Verify API Returned status 200 with valid data,10/05/21,15:40,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,10/05/21,15:40,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/05/21,15:40,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/05/21,15:40,Pass,200,The API returned status of 200 in less than 3 seconds,0.782031
+Test 01,Verify API Returned status 200 with valid data,10/06/21,15:32,Pass,200,The API returned status of 200 as expected,Sit in the dark and listen to your favorite music with no distractions
+Test 02,Verify api returned status 200 but no data,10/06/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/06/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/06/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.526818
+Test 01,Verify API Returned status 200 with valid data,10/07/21,15:28,Pass,200,The API returned status of 200 as expected,Pot some plants and put them around your house
+Test 02,Verify api returned status 200 but no data,10/07/21,15:28,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/07/21,15:28,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/07/21,15:28,Pass,200,The API returned status of 200 in less than 3 seconds,0.558267
+Test 01,Verify API Returned status 200 with valid data,10/08/21,15:31,Pass,200,The API returned status of 200 as expected,Go stargazing
+Test 02,Verify api returned status 200 but no data,10/08/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/08/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/08/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.826476
+Test 01,Verify API Returned status 200 with valid data,10/09/21,15:31,Pass,200,The API returned status of 200 as expected,Start a daily journal
+Test 02,Verify api returned status 200 but no data,10/09/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/09/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/09/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.458112
+Test 01,Verify API Returned status 200 with valid data,10/10/21,15:30,Pass,200,The API returned status of 200 as expected,Go to a nail salon
+Test 02,Verify api returned status 200 but no data,10/10/21,15:30,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/10/21,15:30,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/10/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.608001
+Test 01,Verify API Returned status 200 with valid data,10/11/21,15:32,Pass,200,The API returned status of 200 as expected,Watch a movie you'd never usually watch
+Test 02,Verify api returned status 200 but no data,10/11/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/11/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/11/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.840721
+Test 01,Verify API Returned status 200 with valid data,10/12/21,15:32,Pass,200,The API returned status of 200 as expected,Pot some plants and put them around your house
+Test 02,Verify api returned status 200 but no data,10/12/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/12/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/12/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.516674
+Test 01,Verify API Returned status 200 with valid data,10/13/21,15:32,Pass,200,The API returned status of 200 as expected,Take a caffeine nap
+Test 02,Verify api returned status 200 but no data,10/13/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/13/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/13/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.529827
+Test 01,Verify API Returned status 200 with valid data,10/14/21,15:32,Pass,200,The API returned status of 200 as expected,Pot some plants and put them around your house
+Test 02,Verify api returned status 200 but no data,10/14/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/14/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/14/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.543824
+Test 01,Verify API Returned status 200 with valid data,10/15/21,15:32,Pass,200,The API returned status of 200 as expected,Sit in the dark and listen to your favorite music with no distractions
+Test 02,Verify api returned status 200 but no data,10/15/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/15/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/15/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.568155
+Test 01,Verify API Returned status 200 with valid data,10/16/21,15:31,Pass,200,The API returned status of 200 as expected,Go to a nail salon
+Test 02,Verify api returned status 200 but no data,10/16/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/16/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/16/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.575024
+Test 01,Verify API Returned status 200 with valid data,10/17/21,15:31,Pass,200,The API returned status of 200 as expected,Go for a walk
+Test 02,Verify api returned status 200 but no data,10/17/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/17/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/17/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.583891
+Test 01,Verify API Returned status 200 with valid data,10/18/21,15:32,Pass,200,The API returned status of 200 as expected,Go on a long drive with no music
+Test 02,Verify api returned status 200 but no data,10/18/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/18/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/18/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.771358
+Test 01,Verify API Returned status 200 with valid data,10/19/21,15:32,Pass,200,The API returned status of 200 as expected,Listen to a new podcast
+Test 02,Verify api returned status 200 but no data,10/19/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/19/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/19/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.521387
+Test 01,Verify API Returned status 200 with valid data,10/20/21,15:32,Pass,200,The API returned status of 200 as expected,Pot some plants and put them around your house
+Test 02,Verify api returned status 200 but no data,10/20/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/20/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/20/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.542186
+Test 01,Verify API Returned status 200 with valid data,10/21/21,15:57,Pass,200,The API returned status of 200 as expected,Sit in the dark and listen to your favorite music with no distractions
+Test 02,Verify api returned status 200 but no data,10/21/21,15:57,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/21/21,15:57,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/21/21,15:57,Pass,200,The API returned status of 200 in less than 3 seconds,0.668775
+Test 01,Verify API Returned status 200 with valid data,10/22/21,15:32,Pass,200,The API returned status of 200 as expected,Write a list of things you are grateful for
+Test 02,Verify api returned status 200 but no data,10/22/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/22/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/22/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.588788
+Test 01,Verify API Returned status 200 with valid data,10/23/21,15:31,Pass,200,The API returned status of 200 as expected,Sit in the dark and listen to your favorite music with no distractions
+Test 02,Verify api returned status 200 but no data,10/23/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/23/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/23/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.764196
+Test 01,Verify API Returned status 200 with valid data,10/24/21,15:32,Pass,200,The API returned status of 200 as expected,Plan a vacation you've always wanted to take
+Test 02,Verify api returned status 200 but no data,10/24/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/24/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/24/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.464312
+Test 01,Verify API Returned status 200 with valid data,10/25/21,15:27,Pass,200,The API returned status of 200 as expected,Draw and color a Mandala
+Test 02,Verify api returned status 200 but no data,10/25/21,15:27,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/25/21,15:27,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/25/21,15:28,Pass,200,The API returned status of 200 in less than 3 seconds,0.607411
+Test 01,Verify API Returned status 200 with valid data,10/26/21,15:32,Pass,200,The API returned status of 200 as expected,Take your cat on a walk
+Test 02,Verify api returned status 200 but no data,10/26/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/26/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/26/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.798724
+Test 01,Verify API Returned status 200 with valid data,10/27/21,15:33,Pass,200,The API returned status of 200 as expected,Draw and color a Mandala
+Test 02,Verify api returned status 200 but no data,10/27/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/27/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/27/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.556785
+Test 01,Verify API Returned status 200 with valid data,10/28/21,15:32,Pass,200,The API returned status of 200 as expected,Teach your dog a new trick
+Test 02,Verify api returned status 200 but no data,10/28/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/28/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/28/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.715831
+Test 01,Verify API Returned status 200 with valid data,10/29/21,15:32,Pass,200,The API returned status of 200 as expected,Go to a nail salon
+Test 02,Verify api returned status 200 but no data,10/29/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/29/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/29/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.502021
+Test 01,Verify API Returned status 200 with valid data,10/30/21,15:31,Pass,200,The API returned status of 200 as expected,Go on a long drive with no music
+Test 02,Verify api returned status 200 but no data,10/30/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/30/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/30/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.556173
+Test 01,Verify API Returned status 200 with valid data,10/31/21,15:31,Pass,200,The API returned status of 200 as expected,Go on a long drive with no music
+Test 02,Verify api returned status 200 but no data,10/31/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,10/31/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,10/31/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.797679
+Test 01,Verify API Returned status 200 with valid data,11/01/21,15:33,Pass,200,The API returned status of 200 as expected,Give your pet ten minutes of focused attention
+Test 02,Verify api returned status 200 but no data,11/01/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/01/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/01/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.447111
+Test 01,Verify API Returned status 200 with valid data,11/02/21,15:33,Pass,200,The API returned status of 200 as expected,Shop at support your local farmers market
+Test 02,Verify api returned status 200 but no data,11/02/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/02/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/02/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.506311
+Test 01,Verify API Returned status 200 with valid data,11/03/21,15:32,Pass,200,The API returned status of 200 as expected,Do something you used to do as a kid
+Test 02,Verify api returned status 200 but no data,11/03/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/03/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/03/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.829685
+Test 01,Verify API Returned status 200 with valid data,11/04/21,15:32,Pass,200,The API returned status of 200 as expected,Take your cat on a walk
+Test 02,Verify api returned status 200 but no data,11/04/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/04/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/04/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.894719
+Test 01,Verify API Returned status 200 with valid data,11/05/21,15:32,Pass,200,The API returned status of 200 as expected,Teach your dog a new trick
+Test 02,Verify api returned status 200 but no data,11/05/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/05/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/05/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.541764
+Test 01,Verify API Returned status 200 with valid data,11/06/21,15:31,Pass,200,The API returned status of 200 as expected,Go stargazing
+Test 02,Verify api returned status 200 but no data,11/06/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/06/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/06/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.571678
+Test 01,Verify API Returned status 200 with valid data,11/07/21,15:31,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,11/07/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/07/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/07/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.50693
+Test 01,Verify API Returned status 200 with valid data,11/08/21,15:32,Pass,200,The API returned status of 200 as expected,Sit in the dark and listen to your favorite music with no distractions
+Test 02,Verify api returned status 200 but no data,11/08/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/08/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/08/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.464012
+Test 01,Verify API Returned status 200 with valid data,11/09/21,15:32,Pass,200,The API returned status of 200 as expected,Sit in the dark and listen to your favorite music with no distractions
+Test 02,Verify api returned status 200 but no data,11/09/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/09/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/09/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.454637
+Test 01,Verify API Returned status 200 with valid data,11/10/21,15:32,Pass,200,The API returned status of 200 as expected,Take a nap
+Test 02,Verify api returned status 200 but no data,11/10/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/10/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/10/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.653234
+Test 01,Verify API Returned status 200 with valid data,11/11/21,15:32,Pass,200,The API returned status of 200 as expected,Plan a vacation you've always wanted to take
+Test 02,Verify api returned status 200 but no data,11/11/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/11/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/11/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.423548
+Test 01,Verify API Returned status 200 with valid data,11/12/21,15:32,Pass,200,The API returned status of 200 as expected,Go to the library and find an interesting book
+Test 02,Verify api returned status 200 but no data,11/12/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/12/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/12/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.67551
+Test 01,Verify API Returned status 200 with valid data,11/13/21,15:31,Pass,200,The API returned status of 200 as expected,Look at pictures and videos of cute animals
+Test 02,Verify api returned status 200 but no data,11/13/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/13/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/13/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.400401
+Test 01,Verify API Returned status 200 with valid data,11/14/21,15:31,Pass,200,The API returned status of 200 as expected,Go for a walk
+Test 02,Verify api returned status 200 but no data,11/14/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/14/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/14/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.54377
+Test 01,Verify API Returned status 200 with valid data,11/15/21,15:33,Pass,200,The API returned status of 200 as expected,Go stargazing
+Test 02,Verify api returned status 200 but no data,11/15/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/15/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/15/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.670453
+Test 01,Verify API Returned status 200 with valid data,11/16/21,15:33,Pass,200,The API returned status of 200 as expected,Do something you used to do as a kid
+Test 02,Verify api returned status 200 but no data,11/16/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/16/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/16/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.44378
+Test 01,Verify API Returned status 200 with valid data,11/17/21,15:33,Pass,200,The API returned status of 200 as expected,Look at pictures and videos of cute animals
+Test 02,Verify api returned status 200 but no data,11/17/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/17/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/17/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.668871
+Test 01,Verify API Returned status 200 with valid data,11/18/21,15:32,Pass,200,The API returned status of 200 as expected,Start a book you've never gotten around to reading
+Test 02,Verify api returned status 200 but no data,11/18/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/18/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/18/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.430403
+Test 01,Verify API Returned status 200 with valid data,11/19/21,15:32,Pass,200,The API returned status of 200 as expected,Take a nap
+Test 02,Verify api returned status 200 but no data,11/19/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/19/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/19/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.649467
+Test 01,Verify API Returned status 200 with valid data,11/20/21,15:31,Pass,200,The API returned status of 200 as expected,Take a nap
+Test 02,Verify api returned status 200 but no data,11/20/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/20/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/20/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.658412
+Test 01,Verify API Returned status 200 with valid data,11/21/21,15:31,Pass,200,The API returned status of 200 as expected,Take your dog on a walk
+Test 02,Verify api returned status 200 but no data,11/21/21,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/21/21,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/21/21,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.746704
+Test 01,Verify API Returned status 200 with valid data,11/22/21,15:33,Pass,200,The API returned status of 200 as expected,Take a bubble bath
+Test 02,Verify api returned status 200 but no data,11/22/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/22/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/22/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.749197
+Test 01,Verify API Returned status 200 with valid data,11/22/21,21:59,Pass,200,The API returned status of 200 as expected,Take a caffeine nap
+Test 02,Verify api returned status 200 but no data,11/22/21,21:59,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/22/21,21:59,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/22/21,21:59,Pass,200,The API returned status of 200 in less than 3 seconds,0.632659
+Test 01,Verify API Returned status 200 with valid data,11/23/21,00:19,Pass,200,The API returned status of 200 as expected,Go stargazing
+Test 02,Verify api returned status 200 but no data,11/23/21,00:19,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/23/21,00:19,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/23/21,00:19,Pass,200,The API returned status of 200 in less than 3 seconds,0.658837
+Test 01,Verify API Returned status 200 with valid data,11/23/21,15:33,Pass,200,The API returned status of 200 as expected,Go stargazing
+Test 02,Verify api returned status 200 but no data,11/23/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/23/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/23/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.524472
+Test 01,Verify API Returned status 200 with valid data,11/24/21,15:33,Pass,200,The API returned status of 200 as expected,Sit in the dark and listen to your favorite music with no distractions
+Test 02,Verify api returned status 200 but no data,11/24/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/24/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/24/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.461289
+Test 01,Verify API Returned status 200 with valid data,11/25/21,15:32,Pass,200,The API returned status of 200 as expected,Take a caffeine nap
+Test 02,Verify api returned status 200 but no data,11/25/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/25/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/25/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.688159
+Test 01,Verify API Returned status 200 with valid data,11/26/21,15:32,Pass,200,The API returned status of 200 as expected,Take a caffeine nap
+Test 02,Verify api returned status 200 but no data,11/26/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/26/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/26/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.559436
+Test 01,Verify API Returned status 200 with valid data,11/27/21,15:31,Pass,200,The API returned status of 200 as expected,Watch a movie you'd never usually watch
+Test 02,Verify api returned status 200 but no data,11/27/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/27/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/27/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.641394
+Test 01,Verify API Returned status 200 with valid data,11/28/21,15:32,Pass,200,The API returned status of 200 as expected,Go stargazing
+Test 02,Verify api returned status 200 but no data,11/28/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/28/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/28/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.557622
+Test 01,Verify API Returned status 200 with valid data,11/29/21,15:33,Pass,200,The API returned status of 200 as expected,Take a caffeine nap
+Test 02,Verify api returned status 200 but no data,11/29/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/29/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/29/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.631142
+Test 01,Verify API Returned status 200 with valid data,11/30/21,15:33,Pass,200,The API returned status of 200 as expected,Sit in the dark and listen to your favorite music with no distractions
+Test 02,Verify api returned status 200 but no data,11/30/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,11/30/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,11/30/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.672898
+Test 01,Verify API Returned status 200 with valid data,12/01/21,15:33,Pass,200,The API returned status of 200 as expected,Teach your dog a new trick
+Test 02,Verify api returned status 200 but no data,12/01/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/01/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/01/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.396695
+Test 01,Verify API Returned status 200 with valid data,12/02/21,15:31,Pass,200,The API returned status of 200 as expected,Go stargazing
+Test 02,Verify api returned status 200 but no data,12/02/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/02/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/02/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.478338
+Test 01,Verify API Returned status 200 with valid data,12/03/21,15:33,Pass,200,The API returned status of 200 as expected,Take your cat on a walk
+Test 02,Verify api returned status 200 but no data,12/03/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/03/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/03/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.549855
+Test 01,Verify API Returned status 200 with valid data,12/04/21,15:32,Pass,200,The API returned status of 200 as expected,Give your pet ten minutes of focused attention
+Test 02,Verify api returned status 200 but no data,12/04/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/04/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/04/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.718421
+Test 01,Verify API Returned status 200 with valid data,12/05/21,15:32,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,12/05/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/05/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/05/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.526828
+Test 01,Verify API Returned status 200 with valid data,12/06/21,15:34,Pass,200,The API returned status of 200 as expected,Plan a vacation you've always wanted to take
+Test 02,Verify api returned status 200 but no data,12/06/21,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/06/21,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/06/21,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.551259
+Test 01,Verify API Returned status 200 with valid data,12/07/21,15:35,Pass,200,The API returned status of 200 as expected,Listen to a new podcast
+Test 02,Verify api returned status 200 but no data,12/07/21,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/07/21,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/07/21,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.712008
+Test 01,Verify API Returned status 200 with valid data,12/08/21,15:33,Pass,200,The API returned status of 200 as expected,Plan a vacation you've always wanted to take
+Test 02,Verify api returned status 200 but no data,12/08/21,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/08/21,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/08/21,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.695597
+Test 01,Verify API Returned status 200 with valid data,12/09/21,15:34,Pass,200,The API returned status of 200 as expected,Take a bubble bath
+Test 02,Verify api returned status 200 but no data,12/09/21,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/09/21,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/09/21,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.832782
+Test 01,Verify API Returned status 200 with valid data,12/10/21,15:33,Pass,200,The API returned status of 200 as expected,Pot some plants and put them around your house
+Test 02,Verify api returned status 200 but no data,12/10/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/10/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/10/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.420612
+Test 01,Verify API Returned status 200 with valid data,12/11/21,15:32,Pass,200,The API returned status of 200 as expected,Teach your dog a new trick
+Test 02,Verify api returned status 200 but no data,12/11/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/11/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/11/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.320517
+Test 01,Verify API Returned status 200 with valid data,12/12/21,15:33,Pass,200,The API returned status of 200 as expected,Shop at support your local farmers market
+Test 02,Verify api returned status 200 but no data,12/12/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/12/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/12/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.557357
+Test 01,Verify API Returned status 200 with valid data,12/13/21,15:33,Pass,200,The API returned status of 200 as expected,Go on a long drive with no music
+Test 02,Verify api returned status 200 but no data,12/13/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/13/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/13/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.515644
+Test 01,Verify API Returned status 200 with valid data,12/14/21,15:33,Pass,200,The API returned status of 200 as expected,Take your cat on a walk
+Test 02,Verify api returned status 200 but no data,12/14/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/14/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/14/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.856215
+Test 01,Verify API Returned status 200 with valid data,12/15/21,15:33,Pass,200,The API returned status of 200 as expected,Draw and color a Mandala
+Test 02,Verify api returned status 200 but no data,12/15/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/15/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/15/21,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.50237
+Test 01,Verify API Returned status 200 with valid data,12/16/21,15:33,Pass,200,The API returned status of 200 as expected,Go to a nail salon
+Test 02,Verify api returned status 200 but no data,12/16/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/16/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/16/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.414757
+Test 01,Verify API Returned status 200 with valid data,12/17/21,15:33,Pass,200,The API returned status of 200 as expected,Write a list of things you are grateful for
+Test 02,Verify api returned status 200 but no data,12/17/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/17/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/17/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.562412
+Test 01,Verify API Returned status 200 with valid data,12/18/21,15:32,Pass,200,The API returned status of 200 as expected,Meditate for five minutes
+Test 02,Verify api returned status 200 but no data,12/18/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/18/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/18/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.719883
+Test 01,Verify API Returned status 200 with valid data,12/19/21,15:32,Pass,200,The API returned status of 200 as expected,Take your dog on a walk
+Test 02,Verify api returned status 200 but no data,12/19/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/19/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/19/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.815778
+Test 01,Verify API Returned status 200 with valid data,12/20/21,15:33,Pass,200,The API returned status of 200 as expected,Look at pictures and videos of cute animals
+Test 02,Verify api returned status 200 but no data,12/20/21,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/20/21,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/20/21,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.32007
+Test 01,Verify API Returned status 200 with valid data,12/21/21,15:33,Pass,200,The API returned status of 200 as expected,Start a book you've never gotten around to reading
+Test 02,Verify api returned status 200 but no data,12/21/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/21/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/21/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.679035
+Test 01,Verify API Returned status 200 with valid data,12/22/21,15:34,Pass,200,The API returned status of 200 as expected,Watch a movie you'd never usually watch
+Test 02,Verify api returned status 200 but no data,12/22/21,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/22/21,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/22/21,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.450148
+Test 01,Verify API Returned status 200 with valid data,12/23/21,15:33,Pass,200,The API returned status of 200 as expected,Look at pictures and videos of cute animals
+Test 02,Verify api returned status 200 but no data,12/23/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/23/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/23/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.425686
+Test 01,Verify API Returned status 200 with valid data,12/24/21,15:33,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,12/24/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/24/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/24/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.746545
+Test 01,Verify API Returned status 200 with valid data,12/25/21,15:32,Pass,200,The API returned status of 200 as expected,Go stargazing
+Test 02,Verify api returned status 200 but no data,12/25/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/25/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/25/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.440207
+Test 01,Verify API Returned status 200 with valid data,12/26/21,15:32,Pass,200,The API returned status of 200 as expected,Take a bubble bath
+Test 02,Verify api returned status 200 but no data,12/26/21,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/26/21,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/26/21,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.783998
+Test 01,Verify API Returned status 200 with valid data,12/27/21,15:33,Pass,200,The API returned status of 200 as expected,Take a nap
+Test 02,Verify api returned status 200 but no data,12/27/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/27/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/27/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.545764
+Test 01,Verify API Returned status 200 with valid data,12/28/21,15:33,Pass,200,The API returned status of 200 as expected,Draw and color a Mandala
+Test 02,Verify api returned status 200 but no data,12/28/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/28/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/28/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.267853
+Test 01,Verify API Returned status 200 with valid data,12/29/21,15:33,Pass,200,The API returned status of 200 as expected,Watch a movie you'd never usually watch
+Test 02,Verify api returned status 200 but no data,12/29/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/29/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/29/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.971913
+Test 01,Verify API Returned status 200 with valid data,12/30/21,15:33,Pass,200,The API returned status of 200 as expected,Take your cat on a walk
+Test 02,Verify api returned status 200 but no data,12/30/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/30/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/30/21,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.558042
+Test 01,Verify API Returned status 200 with valid data,12/31/21,15:33,Pass,200,The API returned status of 200 as expected,Go to a nail salon
+Test 02,Verify api returned status 200 but no data,12/31/21,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,12/31/21,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,12/31/21,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.526746
+Test 01,Verify API Returned status 200 with valid data,01/01/22,15:33,Pass,200,The API returned status of 200 as expected,Sit in the dark and listen to your favorite music with no distractions
+Test 02,Verify api returned status 200 but no data,01/01/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/01/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/01/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.321511
+Test 01,Verify API Returned status 200 with valid data,01/02/22,15:32,Pass,200,The API returned status of 200 as expected,Shop at support your local farmers market
+Test 02,Verify api returned status 200 but no data,01/02/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/02/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/02/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.449971
+Test 01,Verify API Returned status 200 with valid data,01/03/22,15:33,Pass,200,The API returned status of 200 as expected,Go on a long drive with no music
+Test 02,Verify api returned status 200 but no data,01/03/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/03/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/03/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.246784
+Test 01,Verify API Returned status 200 with valid data,01/04/22,15:34,Pass,200,The API returned status of 200 as expected,Look at pictures and videos of cute animals
+Test 02,Verify api returned status 200 but no data,01/04/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/04/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/04/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.07689
+Test 01,Verify API Returned status 200 with valid data,01/05/22,15:34,Pass,200,The API returned status of 200 as expected,Give your pet ten minutes of focused attention
+Test 02,Verify api returned status 200 but no data,01/05/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/05/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/05/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.585894
+Test 01,Verify API Returned status 200 with valid data,01/06/22,15:34,Pass,200,The API returned status of 200 as expected,Take a bubble bath
+Test 02,Verify api returned status 200 but no data,01/06/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/06/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/06/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.191961
+Test 01,Verify API Returned status 200 with valid data,01/07/22,15:34,Pass,200,The API returned status of 200 as expected,Take a nap
+Test 02,Verify api returned status 200 but no data,01/07/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/07/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/07/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.429994
+Test 01,Verify API Returned status 200 with valid data,01/08/22,15:33,Pass,200,The API returned status of 200 as expected,Draw and color a Mandala
+Test 02,Verify api returned status 200 but no data,01/08/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/08/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/08/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.481351
+Test 01,Verify API Returned status 200 with valid data,01/09/22,15:33,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,01/09/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/09/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/09/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.53525
+Test 01,Verify API Returned status 200 with valid data,01/10/22,15:34,Pass,200,The API returned status of 200 as expected,Go for a walk
+Test 02,Verify api returned status 200 but no data,01/10/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/10/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/10/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.79277
+Test 01,Verify API Returned status 200 with valid data,01/11/22,15:34,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,01/11/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/11/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/11/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.46678
+Test 01,Verify API Returned status 200 with valid data,01/12/22,15:34,Pass,200,The API returned status of 200 as expected,Draw and color a Mandala
+Test 02,Verify api returned status 200 but no data,01/12/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/12/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/12/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.341158
+Test 01,Verify API Returned status 200 with valid data,01/13/22,15:34,Pass,200,The API returned status of 200 as expected,Draw and color a Mandala
+Test 02,Verify api returned status 200 but no data,01/13/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/13/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/13/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.341673
+Test 01,Verify API Returned status 200 with valid data,01/14/22,15:34,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,01/14/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/14/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/14/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.607823
+Test 01,Verify API Returned status 200 with valid data,01/15/22,15:33,Pass,200,The API returned status of 200 as expected,Start a book you've never gotten around to reading
+Test 02,Verify api returned status 200 but no data,01/15/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/15/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/15/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.248612
+Test 01,Verify API Returned status 200 with valid data,01/16/22,15:33,Pass,200,The API returned status of 200 as expected,Take a nap
+Test 02,Verify api returned status 200 but no data,01/16/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/16/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/16/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.06397
+Test 01,Verify API Returned status 200 with valid data,01/17/22,15:34,Pass,200,The API returned status of 200 as expected,Start a daily journal
+Test 02,Verify api returned status 200 but no data,01/17/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/17/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/17/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.716468
+Test 01,Verify API Returned status 200 with valid data,01/18/22,15:34,Pass,200,The API returned status of 200 as expected,Start a book you've never gotten around to reading
+Test 02,Verify api returned status 200 but no data,01/18/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/18/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/18/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.313673
+Test 01,Verify API Returned status 200 with valid data,01/19/22,15:30,Pass,200,The API returned status of 200 as expected,Go to a nail salon
+Test 02,Verify api returned status 200 but no data,01/19/22,15:30,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/19/22,15:30,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/19/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.653287
+Test 01,Verify API Returned status 200 with valid data,01/20/22,15:31,Pass,200,The API returned status of 200 as expected,Do something you used to do as a kid
+Test 02,Verify api returned status 200 but no data,01/20/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/20/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/20/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.526523
+Test 01,Verify API Returned status 200 with valid data,01/21/22,15:31,Pass,200,The API returned status of 200 as expected,Draw and color a Mandala
+Test 02,Verify api returned status 200 but no data,01/21/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/21/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/21/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.527364
+Test 01,Verify API Returned status 200 with valid data,01/22/22,15:30,Pass,200,The API returned status of 200 as expected,Go to a nail salon
+Test 02,Verify api returned status 200 but no data,01/22/22,15:30,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/22/22,15:30,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/22/22,15:30,Pass,200,The API returned status of 200 in less than 3 seconds,0.507216
+Test 01,Verify API Returned status 200 with valid data,01/23/22,15:31,Pass,200,The API returned status of 200 as expected,Give your pet ten minutes of focused attention
+Test 02,Verify api returned status 200 but no data,01/23/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/23/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/23/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.820867
+Test 01,Verify API Returned status 200 with valid data,01/24/22,15:31,Pass,200,The API returned status of 200 as expected,Listen to a new podcast
+Test 02,Verify api returned status 200 but no data,01/24/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/24/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/24/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.604314
+Test 01,Verify API Returned status 200 with valid data,01/25/22,15:31,Pass,200,The API returned status of 200 as expected,Do something you used to do as a kid
+Test 02,Verify api returned status 200 but no data,01/25/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/25/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/25/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.817455
+Test 01,Verify API Returned status 200 with valid data,01/26/22,15:31,Pass,200,The API returned status of 200 as expected,Teach your dog a new trick
+Test 02,Verify api returned status 200 but no data,01/26/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/26/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 but no data in less than 3 seconds,01/26/22,15:31,Fail,200,The API took longer than 3 seconds to return data,none
+Test 01,Verify API Returned status 200 with valid data,01/27/22,15:32,Pass,200,The API returned status of 200 as expected,Listen to a new podcast
+Test 02,Verify api returned status 200 but no data,01/27/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/27/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/27/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.729552
+Test 01,Verify API Returned status 200 with valid data,01/28/22,15:31,Pass,200,The API returned status of 200 as expected,Look at pictures and videos of cute animals
+Test 02,Verify api returned status 200 but no data,01/28/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/28/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/28/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.617647
+Test 01,Verify API Returned status 200 with valid data,01/29/22,15:30,Pass,200,The API returned status of 200 as expected,Meditate for five minutes
+Test 02,Verify api returned status 200 but no data,01/29/22,15:30,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/29/22,15:30,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/29/22,15:30,Pass,200,The API returned status of 200 in less than 3 seconds,0.234573
+Test 01,Verify API Returned status 200 with valid data,01/30/22,15:29,Pass,200,The API returned status of 200 as expected,Start a daily journal
+Test 02,Verify api returned status 200 but no data,01/30/22,15:29,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/30/22,15:29,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/30/22,15:29,Pass,200,The API returned status of 200 in less than 3 seconds,0.229322
+Test 01,Verify API Returned status 200 with valid data,01/31/22,15:31,Pass,200,The API returned status of 200 as expected,Write a list of things you are grateful for
+Test 02,Verify api returned status 200 but no data,01/31/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,01/31/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,01/31/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.036033
+Test 01,Verify API Returned status 200 with valid data,02/01/22,15:31,Pass,200,The API returned status of 200 as expected,Take a bubble bath
+Test 02,Verify api returned status 200 but no data,02/01/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/01/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/01/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.242676
+Test 01,Verify API Returned status 200 with valid data,02/02/22,15:31,Pass,200,The API returned status of 200 as expected,Take your dog on a walk
+Test 02,Verify api returned status 200 but no data,02/02/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/02/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/02/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.236391
+Test 01,Verify API Returned status 200 with valid data,02/03/22,15:29,Pass,200,The API returned status of 200 as expected,Take a nap
+Test 02,Verify api returned status 200 but no data,02/03/22,15:29,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/03/22,15:29,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/03/22,15:29,Pass,200,The API returned status of 200 in less than 3 seconds,0.253719
+Test 01,Verify API Returned status 200 with valid data,02/04/22,15:26,Pass,200,The API returned status of 200 as expected,Start a daily journal
+Test 02,Verify api returned status 200 but no data,02/04/22,15:26,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/04/22,15:26,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/04/22,15:26,Pass,200,The API returned status of 200 in less than 3 seconds,0.255301
+Test 01,Verify API Returned status 200 with valid data,02/05/22,15:26,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,02/05/22,15:26,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/05/22,15:26,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/05/22,15:26,Pass,200,The API returned status of 200 in less than 3 seconds,0.039326
+Test 01,Verify API Returned status 200 with valid data,02/06/22,15:29,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,02/06/22,15:29,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/06/22,15:29,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/06/22,15:29,Pass,200,The API returned status of 200 in less than 3 seconds,0.243095
+Test 01,Verify API Returned status 200 with valid data,02/07/22,15:30,Pass,200,The API returned status of 200 as expected,Shop at support your local farmers market
+Test 02,Verify api returned status 200 but no data,02/07/22,15:30,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/07/22,15:30,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/07/22,15:30,Pass,200,The API returned status of 200 in less than 3 seconds,0.384971
+Test 01,Verify API Returned status 200 with valid data,02/08/22,15:31,Pass,200,The API returned status of 200 as expected,Meditate for five minutes
+Test 02,Verify api returned status 200 but no data,02/08/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/08/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/08/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.031907
+Test 01,Verify API Returned status 200 with valid data,02/09/22,15:31,Pass,200,The API returned status of 200 as expected,Pot some plants and put them around your house
+Test 02,Verify api returned status 200 but no data,02/09/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/09/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/09/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.248921
+Test 01,Verify API Returned status 200 with valid data,02/10/22,15:30,Pass,200,The API returned status of 200 as expected,Take a nap
+Test 02,Verify api returned status 200 but no data,02/10/22,15:30,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/10/22,15:30,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/10/22,15:30,Pass,200,The API returned status of 200 in less than 3 seconds,0.253192
+Test 01,Verify API Returned status 200 with valid data,02/11/22,15:30,Pass,200,The API returned status of 200 as expected,Start a daily journal
+Test 02,Verify api returned status 200 but no data,02/11/22,15:30,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/11/22,15:30,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/11/22,15:30,Pass,200,The API returned status of 200 in less than 3 seconds,0.031
+Test 01,Verify API Returned status 200 with valid data,02/12/22,15:29,Pass,200,The API returned status of 200 as expected,Do something you used to do as a kid
+Test 02,Verify api returned status 200 but no data,02/12/22,15:29,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/12/22,15:29,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/12/22,15:29,Pass,200,The API returned status of 200 in less than 3 seconds,0.041061
+Test 01,Verify API Returned status 200 with valid data,02/13/22,15:30,Pass,200,The API returned status of 200 as expected,Watch a movie you'd never usually watch
+Test 02,Verify api returned status 200 but no data,02/13/22,15:30,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/13/22,15:30,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/13/22,15:30,Pass,200,The API returned status of 200 in less than 3 seconds,0.033483
+Test 01,Verify API Returned status 200 with valid data,02/14/22,15:30,Pass,200,The API returned status of 200 as expected,Meditate for five minutes
+Test 02,Verify api returned status 200 but no data,02/14/22,15:30,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/14/22,15:30,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/14/22,15:30,Pass,200,The API returned status of 200 in less than 3 seconds,0.247971
+Test 01,Verify API Returned status 200 with valid data,02/15/22,15:27,Pass,200,The API returned status of 200 as expected,Pot some plants and put them around your house
+Test 02,Verify api returned status 200 but no data,02/15/22,15:27,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/15/22,15:27,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/15/22,15:27,Pass,200,The API returned status of 200 in less than 3 seconds,0.034
+Test 01,Verify API Returned status 200 with valid data,02/16/22,15:32,Pass,200,The API returned status of 200 as expected,Take your dog on a walk
+Test 02,Verify api returned status 200 but no data,02/16/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/16/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/16/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.029998
+Test 01,Verify API Returned status 200 with valid data,02/17/22,15:32,Pass,200,The API returned status of 200 as expected,Take a caffeine nap
+Test 02,Verify api returned status 200 but no data,02/17/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/17/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/17/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.244683
+Test 01,Verify API Returned status 200 with valid data,02/18/22,15:31,Pass,200,The API returned status of 200 as expected,Give your pet ten minutes of focused attention
+Test 02,Verify api returned status 200 but no data,02/18/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/18/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/18/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.244927
+Test 01,Verify API Returned status 200 with valid data,02/19/22,15:31,Pass,200,The API returned status of 200 as expected,Look at pictures and videos of cute animals
+Test 02,Verify api returned status 200 but no data,02/19/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/19/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/19/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.232726
+Test 01,Verify API Returned status 200 with valid data,02/20/22,15:30,Pass,200,The API returned status of 200 as expected,Write a list of things you are grateful for
+Test 02,Verify api returned status 200 but no data,02/20/22,15:30,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/20/22,15:30,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/20/22,15:30,Pass,200,The API returned status of 200 in less than 3 seconds,0.036553
+Test 01,Verify API Returned status 200 with valid data,02/21/22,15:35,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,02/21/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/21/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/21/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.060998
+Test 01,Verify API Returned status 200 with valid data,02/22/22,15:32,Pass,200,The API returned status of 200 as expected,Teach your dog a new trick
+Test 02,Verify api returned status 200 but no data,02/22/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/22/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/22/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.245169
+Test 01,Verify API Returned status 200 with valid data,02/23/22,15:32,Pass,200,The API returned status of 200 as expected,Listen to a new podcast
+Test 02,Verify api returned status 200 but no data,02/23/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/23/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/23/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.240245
+Test 01,Verify API Returned status 200 with valid data,02/24/22,15:33,Pass,200,The API returned status of 200 as expected,Look at pictures and videos of cute animals
+Test 02,Verify api returned status 200 but no data,02/24/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/24/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/24/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.431622
+Test 01,Verify API Returned status 200 with valid data,02/25/22,15:31,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,02/25/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/25/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/25/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.241003
+Test 01,Verify API Returned status 200 with valid data,02/26/22,15:30,Pass,200,The API returned status of 200 as expected,Go to the library and find an interesting book
+Test 02,Verify api returned status 200 but no data,02/26/22,15:30,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/26/22,15:30,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/26/22,15:30,Pass,200,The API returned status of 200 in less than 3 seconds,0.250876
+Test 01,Verify API Returned status 200 with valid data,02/27/22,15:31,Pass,200,The API returned status of 200 as expected,Plan a vacation you've always wanted to take
+Test 02,Verify api returned status 200 but no data,02/27/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/27/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/27/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.240144
+Test 01,Verify API Returned status 200 with valid data,02/28/22,15:33,Pass,200,The API returned status of 200 as expected,Do something you used to do as a kid
+Test 02,Verify api returned status 200 but no data,02/28/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,02/28/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,02/28/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.23065
+Test 01,Verify API Returned status 200 with valid data,03/01/22,15:32,Pass,200,The API returned status of 200 as expected,Go to a nail salon
+Test 02,Verify api returned status 200 but no data,03/01/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/01/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/01/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.245484
+Test 01,Verify API Returned status 200 with valid data,03/02/22,15:33,Pass,200,The API returned status of 200 as expected,Give your pet ten minutes of focused attention
+Test 02,Verify api returned status 200 but no data,03/02/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/02/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/02/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.028998
+Test 01,Verify API Returned status 200 with valid data,03/03/22,15:32,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,03/03/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/03/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/03/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.263146
+Test 01,Verify API Returned status 200 with valid data,03/04/22,15:33,Pass,200,The API returned status of 200 as expected,Give your pet ten minutes of focused attention
+Test 02,Verify api returned status 200 but no data,03/04/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/04/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/04/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.243175
+Test 01,Verify API Returned status 200 with valid data,03/05/22,15:31,Pass,200,The API returned status of 200 as expected,Take your cat on a walk
+Test 02,Verify api returned status 200 but no data,03/05/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/05/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/05/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.034
+Test 01,Verify API Returned status 200 with valid data,03/06/22,15:30,Pass,200,The API returned status of 200 as expected,Look at pictures and videos of cute animals
+Test 02,Verify api returned status 200 but no data,03/06/22,15:30,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/06/22,15:30,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/06/22,15:30,Pass,200,The API returned status of 200 in less than 3 seconds,0.038458
+Test 01,Verify API Returned status 200 with valid data,03/07/22,15:32,Pass,200,The API returned status of 200 as expected,Teach your dog a new trick
+Test 02,Verify api returned status 200 but no data,03/07/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/07/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/07/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.031999
+Test 01,Verify API Returned status 200 with valid data,03/08/22,15:32,Pass,200,The API returned status of 200 as expected,Plan a vacation you've always wanted to take
+Test 02,Verify api returned status 200 but no data,03/08/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/08/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/08/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.035997
+Test 01,Verify API Returned status 200 with valid data,03/09/22,15:31,Pass,200,The API returned status of 200 as expected,Teach your dog a new trick
+Test 02,Verify api returned status 200 but no data,03/09/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/09/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/09/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.237026
+Test 01,Verify API Returned status 200 with valid data,03/10/22,15:34,Pass,200,The API returned status of 200 as expected,Listen to a new podcast
+Test 02,Verify api returned status 200 but no data,03/10/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/10/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/10/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.035857
+Test 01,Verify API Returned status 200 with valid data,03/11/22,15:35,Pass,200,The API returned status of 200 as expected,Take your cat on a walk
+Test 02,Verify api returned status 200 but no data,03/11/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/11/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/11/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.038497
+Test 01,Verify API Returned status 200 with valid data,03/12/22,15:32,Pass,200,The API returned status of 200 as expected,Listen to a new podcast
+Test 02,Verify api returned status 200 but no data,03/12/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/12/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/12/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.048006
+Test 01,Verify API Returned status 200 with valid data,03/13/22,15:31,Pass,200,The API returned status of 200 as expected,Meditate for five minutes
+Test 02,Verify api returned status 200 but no data,03/13/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/13/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/13/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.04086
+Test 01,Verify API Returned status 200 with valid data,03/14/22,15:33,Pass,200,The API returned status of 200 as expected,Give your pet ten minutes of focused attention
+Test 02,Verify api returned status 200 but no data,03/14/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/14/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/14/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.221929
+Test 01,Verify API Returned status 200 with valid data,03/15/22,15:31,Pass,200,The API returned status of 200 as expected,Sit in the dark and listen to your favorite music with no distractions
+Test 02,Verify api returned status 200 but no data,03/15/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/15/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/15/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.257908
+Test 01,Verify API Returned status 200 with valid data,03/16/22,15:33,Pass,200,The API returned status of 200 as expected,Take a caffeine nap
+Test 02,Verify api returned status 200 but no data,03/16/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/16/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/16/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.038426
+Test 01,Verify API Returned status 200 with valid data,03/17/22,15:40,Pass,200,The API returned status of 200 as expected,Watch a movie you'd never usually watch
+Test 02,Verify api returned status 200 but no data,03/17/22,15:40,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/17/22,15:40,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/17/22,15:40,Pass,200,The API returned status of 200 in less than 3 seconds,0.038997
+Test 01,Verify API Returned status 200 with valid data,03/18/22,15:32,Pass,200,The API returned status of 200 as expected,Give your pet ten minutes of focused attention
+Test 02,Verify api returned status 200 but no data,03/18/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/18/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/18/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.038001
+Test 01,Verify API Returned status 200 with valid data,03/20/22,04:28,Pass,200,The API returned status of 200 as expected,Plan a vacation you've always wanted to take
+Test 02,Verify api returned status 200 but no data,03/20/22,04:28,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/20/22,04:28,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/20/22,04:28,Pass,200,The API returned status of 200 in less than 3 seconds,0.040003
+Test 01,Verify API Returned status 200 with valid data,03/20/22,15:31,Pass,200,The API returned status of 200 as expected,Draw and color a Mandala
+Test 02,Verify api returned status 200 but no data,03/20/22,15:31,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/20/22,15:31,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/20/22,15:31,Pass,200,The API returned status of 200 in less than 3 seconds,0.233196
+Test 01,Verify API Returned status 200 with valid data,03/21/22,15:35,Pass,200,The API returned status of 200 as expected,Plan a vacation you've always wanted to take
+Test 02,Verify api returned status 200 but no data,03/21/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/21/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/21/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.029997
+Test 01,Verify API Returned status 200 with valid data,03/22/22,15:33,Pass,200,The API returned status of 200 as expected,Take a caffeine nap
+Test 02,Verify api returned status 200 but no data,03/22/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/22/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/22/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.037
+Test 01,Verify API Returned status 200 with valid data,03/23/22,15:32,Pass,200,The API returned status of 200 as expected,Shop at support your local farmers market
+Test 02,Verify api returned status 200 but no data,03/23/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/23/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/23/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.235592
+Test 01,Verify API Returned status 200 with valid data,03/24/22,15:33,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,03/24/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/24/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/24/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.239672
+Test 01,Verify API Returned status 200 with valid data,03/25/22,15:33,Pass,200,The API returned status of 200 as expected,Go on a long drive with no music
+Test 02,Verify api returned status 200 but no data,03/25/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/25/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/25/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.039636
+Test 01,Verify API Returned status 200 with valid data,03/26/22,15:32,Pass,200,The API returned status of 200 as expected,Teach your dog a new trick
+Test 02,Verify api returned status 200 but no data,03/26/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/26/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/26/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.235513
+Test 01,Verify API Returned status 200 with valid data,03/27/22,15:32,Pass,200,The API returned status of 200 as expected,Shop at support your local farmers market
+Test 02,Verify api returned status 200 but no data,03/27/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/27/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/27/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.247917
+Test 01,Verify API Returned status 200 with valid data,03/28/22,15:32,Pass,200,The API returned status of 200 as expected,Give your pet ten minutes of focused attention
+Test 02,Verify api returned status 200 but no data,03/28/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/28/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/28/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.305309
+Test 01,Verify API Returned status 200 with valid data,03/29/22,15:33,Pass,200,The API returned status of 200 as expected,Go stargazing
+Test 02,Verify api returned status 200 but no data,03/29/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/29/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/29/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.247493
+Test 01,Verify API Returned status 200 with valid data,03/30/22,15:33,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,03/30/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/30/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/30/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.246965
+Test 01,Verify API Returned status 200 with valid data,03/31/22,15:33,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,03/31/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/31/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/31/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.24192
+Test 01,Verify API Returned status 200 with valid data,04/01/22,15:35,Pass,200,The API returned status of 200 as expected,Start a book you've never gotten around to reading
+Test 02,Verify api returned status 200 but no data,04/01/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/01/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/01/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.030209
+Test 01,Verify API Returned status 200 with valid data,04/02/22,15:33,Pass,200,The API returned status of 200 as expected,Start a daily journal
+Test 02,Verify api returned status 200 but no data,04/02/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/02/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/02/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.086021
+Test 01,Verify API Returned status 200 with valid data,04/03/22,15:32,Pass,200,The API returned status of 200 as expected,Sit in the dark and listen to your favorite music with no distractions
+Test 02,Verify api returned status 200 but no data,04/03/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/03/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/03/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.247637
+Test 01,Verify API Returned status 200 with valid data,04/04/22,15:33,Pass,200,The API returned status of 200 as expected,Go for a walk
+Test 02,Verify api returned status 200 but no data,04/04/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/04/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/04/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.244108
+Test 01,Verify API Returned status 200 with valid data,04/05/22,15:33,Pass,200,The API returned status of 200 as expected,Do something you used to do as a kid
+Test 02,Verify api returned status 200 but no data,04/05/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/05/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/05/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.229968
+Test 01,Verify API Returned status 200 with valid data,04/06/22,15:33,Pass,200,The API returned status of 200 as expected,Start a daily journal
+Test 02,Verify api returned status 200 but no data,04/06/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/06/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/06/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.03698
+Test 01,Verify API Returned status 200 with valid data,04/07/22,15:32,Pass,200,The API returned status of 200 as expected,Start a daily journal
+Test 02,Verify api returned status 200 but no data,04/07/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/07/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/07/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.238752
+Test 01,Verify API Returned status 200 with valid data,04/08/22,15:33,Pass,200,The API returned status of 200 as expected,Shop at support your local farmers market
+Test 02,Verify api returned status 200 but no data,04/08/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/08/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/08/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.235011
+Test 01,Verify API Returned status 200 with valid data,04/09/22,15:33,Pass,200,The API returned status of 200 as expected,Watch a movie you'd never usually watch
+Test 02,Verify api returned status 200 but no data,04/09/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/09/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/09/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.041114
+Test 01,Verify API Returned status 200 with valid data,04/10/22,15:33,Pass,200,The API returned status of 200 as expected,Take your cat on a walk
+Test 02,Verify api returned status 200 but no data,04/10/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/10/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/10/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.362414
+Test 01,Verify API Returned status 200 with valid data,04/11/22,15:35,Pass,200,The API returned status of 200 as expected,Teach your dog a new trick
+Test 02,Verify api returned status 200 but no data,04/11/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/11/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/11/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.037
+Test 01,Verify API Returned status 200 with valid data,04/12/22,15:34,Pass,200,The API returned status of 200 as expected,Look at pictures and videos of cute animals
+Test 02,Verify api returned status 200 but no data,04/12/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/12/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/12/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.2309
+Test 01,Verify API Returned status 200 with valid data,04/13/22,15:36,Pass,200,The API returned status of 200 as expected,Take your dog on a walk
+Test 02,Verify api returned status 200 but no data,04/13/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/13/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/13/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.034989
+Test 01,Verify API Returned status 200 with valid data,04/14/22,15:34,Pass,200,The API returned status of 200 as expected,Teach your dog a new trick
+Test 02,Verify api returned status 200 but no data,04/14/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/14/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/14/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.24398
+Test 01,Verify API Returned status 200 with valid data,04/15/22,15:33,Pass,200,The API returned status of 200 as expected,Go to the library and find an interesting book
+Test 02,Verify api returned status 200 but no data,04/15/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/15/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/15/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.029999
+Test 01,Verify API Returned status 200 with valid data,04/16/22,15:32,Pass,200,The API returned status of 200 as expected,Start a book you've never gotten around to reading
+Test 02,Verify api returned status 200 but no data,04/16/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/16/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/16/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.231151
+Test 01,Verify API Returned status 200 with valid data,04/17/22,15:32,Pass,200,The API returned status of 200 as expected,Shop at support your local farmers market
+Test 02,Verify api returned status 200 but no data,04/17/22,15:32,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/17/22,15:32,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/17/22,15:32,Pass,200,The API returned status of 200 in less than 3 seconds,0.03802
+Test 01,Verify API Returned status 200 with valid data,04/18/22,15:34,Pass,200,The API returned status of 200 as expected,Draw and color a Mandala
+Test 02,Verify api returned status 200 but no data,04/18/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/18/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/18/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.042127
+Test 01,Verify API Returned status 200 with valid data,04/19/22,15:35,Pass,200,The API returned status of 200 as expected,Write a list of things you are grateful for
+Test 02,Verify api returned status 200 but no data,04/19/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/19/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/19/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.246264
+Test 01,Verify API Returned status 200 with valid data,04/20/22,15:41,Pass,200,The API returned status of 200 as expected,Listen to a new podcast
+Test 02,Verify api returned status 200 but no data,04/20/22,15:41,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/20/22,15:41,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/20/22,15:41,Pass,200,The API returned status of 200 in less than 3 seconds,0.041996
+Test 01,Verify API Returned status 200 with valid data,04/21/22,15:36,Pass,200,The API returned status of 200 as expected,Take a nap
+Test 02,Verify api returned status 200 but no data,04/21/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/21/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/21/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.047265
+Test 01,Verify API Returned status 200 with valid data,04/22/22,15:33,Pass,200,The API returned status of 200 as expected,Go to the library and find an interesting book
+Test 02,Verify api returned status 200 but no data,04/22/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/22/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/22/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.233476
+Test 01,Verify API Returned status 200 with valid data,04/23/22,15:33,Pass,200,The API returned status of 200 as expected,Take a caffeine nap
+Test 02,Verify api returned status 200 but no data,04/23/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/23/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/23/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.237164
+Test 01,Verify API Returned status 200 with valid data,04/24/22,15:33,Pass,200,The API returned status of 200 as expected,Give your pet ten minutes of focused attention
+Test 02,Verify api returned status 200 but no data,04/24/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/24/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/24/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.04398
+Test 01,Verify API Returned status 200 with valid data,04/25/22,15:36,Pass,200,The API returned status of 200 as expected,Go stargazing
+Test 02,Verify api returned status 200 but no data,04/25/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/25/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/25/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.237244
+Test 01,Verify API Returned status 200 with valid data,04/26/22,15:35,Pass,200,The API returned status of 200 as expected,Do something you used to do as a kid
+Test 02,Verify api returned status 200 but no data,04/26/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/26/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/26/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.244698
+Test 01,Verify API Returned status 200 with valid data,04/27/22,15:38,Pass,200,The API returned status of 200 as expected,Pot some plants and put them around your house
+Test 02,Verify api returned status 200 but no data,04/27/22,15:38,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/27/22,15:38,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/27/22,15:38,Pass,200,The API returned status of 200 in less than 3 seconds,0.041775
+Test 01,Verify API Returned status 200 with valid data,04/28/22,15:35,Pass,200,The API returned status of 200 as expected,Draw and color a Mandala
+Test 02,Verify api returned status 200 but no data,04/28/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/28/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/28/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.24453
+Test 01,Verify API Returned status 200 with valid data,04/29/22,15:35,Pass,200,The API returned status of 200 as expected,Start a daily journal
+Test 02,Verify api returned status 200 but no data,04/29/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/29/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/29/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.247268
+Test 01,Verify API Returned status 200 with valid data,04/30/22,15:33,Pass,200,The API returned status of 200 as expected,Shop at support your local farmers market
+Test 02,Verify api returned status 200 but no data,04/30/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,04/30/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,04/30/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.236028
+Test 01,Verify API Returned status 200 with valid data,05/01/22,15:35,Pass,200,The API returned status of 200 as expected,Take a nap
+Test 02,Verify api returned status 200 but no data,05/01/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/01/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/01/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.240661
+Test 01,Verify API Returned status 200 with valid data,05/02/22,15:36,Pass,200,The API returned status of 200 as expected,Take a nap
+Test 02,Verify api returned status 200 but no data,05/02/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/02/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/02/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.27143
+Test 01,Verify API Returned status 200 with valid data,05/03/22,15:35,Pass,200,The API returned status of 200 as expected,Sit in the dark and listen to your favorite music with no distractions
+Test 02,Verify api returned status 200 but no data,05/03/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/03/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/03/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.032997
+Test 01,Verify API Returned status 200 with valid data,05/04/22,15:35,Pass,200,The API returned status of 200 as expected,Write a list of things you are grateful for
+Test 02,Verify api returned status 200 but no data,05/04/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/04/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/04/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.233663
+Test 01,Verify API Returned status 200 with valid data,05/05/22,15:34,Pass,200,The API returned status of 200 as expected,Take a nap
+Test 02,Verify api returned status 200 but no data,05/05/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/05/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/05/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.235199
+Test 01,Verify API Returned status 200 with valid data,05/06/22,15:35,Pass,200,The API returned status of 200 as expected,Shop at support your local farmers market
+Test 02,Verify api returned status 200 but no data,05/06/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/06/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/06/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.290776
+Test 01,Verify API Returned status 200 with valid data,05/07/22,15:34,Pass,200,The API returned status of 200 as expected,Look at pictures and videos of cute animals
+Test 02,Verify api returned status 200 but no data,05/07/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/07/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/07/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.030999
+Test 01,Verify API Returned status 200 with valid data,05/08/22,15:33,Pass,200,The API returned status of 200 as expected,Take a caffeine nap
+Test 02,Verify api returned status 200 but no data,05/08/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/08/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/08/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.035414
+Test 01,Verify API Returned status 200 with valid data,05/09/22,15:36,Pass,200,The API returned status of 200 as expected,Take a nap
+Test 02,Verify api returned status 200 but no data,05/09/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/09/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/09/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.230251
+Test 01,Verify API Returned status 200 with valid data,05/10/22,15:35,Pass,200,The API returned status of 200 as expected,Take a bubble bath
+Test 02,Verify api returned status 200 but no data,05/10/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/10/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/10/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.240912
+Test 01,Verify API Returned status 200 with valid data,05/11/22,15:36,Pass,200,The API returned status of 200 as expected,Take a caffeine nap
+Test 02,Verify api returned status 200 but no data,05/11/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/11/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/11/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.026003
+Test 01,Verify API Returned status 200 with valid data,05/12/22,15:41,Pass,200,The API returned status of 200 as expected,Start a daily journal
+Test 02,Verify api returned status 200 but no data,05/12/22,15:41,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/12/22,15:41,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/12/22,15:41,Pass,200,The API returned status of 200 in less than 3 seconds,0.038025
+Test 01,Verify API Returned status 200 with valid data,05/13/22,15:36,Pass,200,The API returned status of 200 as expected,Go to a nail salon
+Test 02,Verify api returned status 200 but no data,05/13/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/13/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/13/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.034542
+Test 01,Verify API Returned status 200 with valid data,05/14/22,15:33,Pass,200,The API returned status of 200 as expected,Listen to a new podcast
+Test 02,Verify api returned status 200 but no data,05/14/22,15:33,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/14/22,15:33,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/14/22,15:33,Pass,200,The API returned status of 200 in less than 3 seconds,0.028001
+Test 01,Verify API Returned status 200 with valid data,05/15/22,15:34,Pass,200,The API returned status of 200 as expected,Take your dog on a walk
+Test 02,Verify api returned status 200 but no data,05/15/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/15/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/15/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.035113
+Test 01,Verify API Returned status 200 with valid data,05/16/22,15:38,Pass,200,The API returned status of 200 as expected,Go to the library and find an interesting book
+Test 02,Verify api returned status 200 but no data,05/16/22,15:38,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/16/22,15:38,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/16/22,15:38,Pass,200,The API returned status of 200 in less than 3 seconds,0.24201
+Test 01,Verify API Returned status 200 with valid data,05/17/22,15:36,Pass,200,The API returned status of 200 as expected,Teach your dog a new trick
+Test 02,Verify api returned status 200 but no data,05/17/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/17/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/17/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.048998
+Test 01,Verify API Returned status 200 with valid data,05/18/22,15:36,Pass,200,The API returned status of 200 as expected,Go to the library and find an interesting book
+Test 02,Verify api returned status 200 but no data,05/18/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/18/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/18/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.033743
+Test 01,Verify API Returned status 200 with valid data,05/19/22,15:50,Pass,200,The API returned status of 200 as expected,Look at pictures and videos of cute animals
+Test 02,Verify api returned status 200 but no data,05/19/22,15:50,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/19/22,15:50,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/19/22,15:50,Pass,200,The API returned status of 200 in less than 3 seconds,0.14515
+Test 01,Verify API Returned status 200 with valid data,05/20/22,15:36,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,05/20/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/20/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/20/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.035599
+Test 01,Verify API Returned status 200 with valid data,05/21/22,15:34,Pass,200,The API returned status of 200 as expected,Meditate for five minutes
+Test 02,Verify api returned status 200 but no data,05/21/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/21/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/21/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.240719
+Test 01,Verify API Returned status 200 with valid data,05/22/22,15:35,Pass,200,The API returned status of 200 as expected,Go on a long drive with no music
+Test 02,Verify api returned status 200 but no data,05/22/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/22/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/22/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.158373
+Test 01,Verify API Returned status 200 with valid data,05/23/22,15:36,Pass,200,The API returned status of 200 as expected,Go stargazing
+Test 02,Verify api returned status 200 but no data,05/23/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/23/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/23/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.230138
+Test 01,Verify API Returned status 200 with valid data,05/24/22,15:36,Pass,200,The API returned status of 200 as expected,Teach your dog a new trick
+Test 02,Verify api returned status 200 but no data,05/24/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/24/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/24/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.231128
+Test 01,Verify API Returned status 200 with valid data,05/25/22,15:41,Pass,200,The API returned status of 200 as expected,Take your cat on a walk
+Test 02,Verify api returned status 200 but no data,05/25/22,15:41,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/25/22,15:41,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/25/22,15:41,Pass,200,The API returned status of 200 in less than 3 seconds,0.141317
+Test 01,Verify API Returned status 200 with valid data,05/26/22,15:37,Pass,200,The API returned status of 200 as expected,Take a bubble bath
+Test 02,Verify api returned status 200 but no data,05/26/22,15:37,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/26/22,15:37,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/26/22,15:37,Pass,200,The API returned status of 200 in less than 3 seconds,0.243587
+Test 01,Verify API Returned status 200 with valid data,05/27/22,15:36,Pass,200,The API returned status of 200 as expected,Take a nap
+Test 02,Verify api returned status 200 but no data,05/27/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/27/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/27/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.042998
+Test 01,Verify API Returned status 200 with valid data,05/28/22,15:35,Pass,200,The API returned status of 200 as expected,Color
+Test 02,Verify api returned status 200 but no data,05/28/22,15:35,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/28/22,15:35,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/28/22,15:35,Pass,200,The API returned status of 200 in less than 3 seconds,0.163015
+Test 01,Verify API Returned status 200 with valid data,05/29/22,15:34,Pass,200,The API returned status of 200 as expected,Pot some plants and put them around your house
+Test 02,Verify api returned status 200 but no data,05/29/22,15:34,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/29/22,15:34,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/29/22,15:34,Pass,200,The API returned status of 200 in less than 3 seconds,0.146484
+Test 01,Verify API Returned status 200 with valid data,05/30/22,15:36,Pass,200,The API returned status of 200 as expected,Sit in the dark and listen to your favorite music with no distractions
+Test 02,Verify api returned status 200 but no data,05/30/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/30/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/30/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.239585
+Test 01,Verify API Returned status 200 with valid data,06/19/22,21:03,Pass,200,The API returned status of 200 as expected,Go to the library and find an interesting book
+Test 02,Verify api returned status 200 but no data,06/19/22,21:03,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,06/19/22,21:03,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,06/19/22,21:03,Pass,200,The API returned status of 200 in less than 3 seconds,0.095
