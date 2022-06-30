@@ -1382,3 +1382,7 @@ Test 01,Verify API Returned status 200 with valid data,06/29/22,16:02,Pass,200,T
 Test 02,Verify api returned status 200 but no data,06/29/22,16:02,Pass,200,There was an error but the API returned status 200,none
 Test 03,Verify api returned status 200 but no data,06/29/22,16:02,Pass,400,The API did not return status of 200,none
 Test 04,Verify api returned status 200 in less than 3 seconds,06/29/22,16:02,Pass,200,The API returned status of 200 in less than 3 seconds,0.030213
+Test 01,Verify API Returned status 200 with valid data,06/30/22,15:36,Pass,200,The API returned status of 200 as expected,Pot some plants and put them around your house
+Test 02,Verify api returned status 200 but no data,06/30/22,15:36,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,06/30/22,15:36,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,06/30/22,15:36,Pass,200,The API returned status of 200 in less than 3 seconds,0.03487
