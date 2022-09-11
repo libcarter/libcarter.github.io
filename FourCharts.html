@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    09/10/2022 08:36'
+        title: 'Last Test Results as of:    09/11/2022 08:37'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    09/10/2022 08:36'
+        title: 'Combined Results Last 4 Test Runs as of:    09/11/2022 08:37'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['09/06/22', "Plan a vacation you've always wanted to take"],
-['09/07/22', 'Pot some plants and put them around your house'],
+      ['09/07/22', 'Pot some plants and put them around your house'],
 ['09/08/22', 'Color'],
 ['09/09/22', 'Teach your dog a new trick'],
 ['09/10/22', 'Teach your dog a new trick'],
+['09/11/22', 'Color'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['09/01/22', 0.078143],
-['09/02/22', 0.046874],
+       ['09/02/22', 0.046874],
 ['09/03/22', 0.156266],
 ['09/04/22', 0.04694],
 ['09/05/22', 0.156264],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['09/08/22', 0.124974],
 ['09/09/22', 0.093752],
 ['09/10/22', 0.078101],
+['09/11/22', 0.09382],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    09/10/2022 08:36'
+        title: 'API Performance - Last 10 Results as of:    09/11/2022 08:37'
       };
 
 
