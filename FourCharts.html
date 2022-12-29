@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    12/28/2022 07:27'
+        title: 'Last Test Results as of:    12/29/2022 07:27'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    12/28/2022 07:27'
+        title: 'Combined Results Last 4 Test Runs as of:    12/29/2022 07:27'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['12/24/22', "Start a book you've never gotten around to reading"],
-['12/25/22', "Start a book you've never gotten around to reading"],
+      ['12/25/22', "Start a book you've never gotten around to reading"],
 ['12/26/22', 'Do something you used to do as a kid'],
 ['12/27/22', "Plan a vacation you've always wanted to take"],
 ['12/28/22', 'Take your dog on a walk'],
+['12/29/22', 'Do something you used to do as a kid'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['12/19/22', 0.140666],
-['12/20/22', 0.01568],
+       ['12/20/22', 0.01568],
 ['12/21/22', 0.156454],
 ['12/22/22', 0.078855],
 ['12/23/22', 0.078124],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['12/26/22', 0.15307],
 ['12/27/22', 0.140954],
 ['12/28/22', 0.124941],
+['12/29/22', 0.078114],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    12/28/2022 07:27'
+        title: 'API Performance - Last 10 Results as of:    12/29/2022 07:27'
       };
 
 
