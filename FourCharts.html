@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    01/29/2023 07:25'
+        title: 'Last Test Results as of:    01/30/2023 07:29'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    01/29/2023 07:25'
+        title: 'Combined Results Last 4 Test Runs as of:    01/30/2023 07:29'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['01/25/23', 'Start a daily journal'],
-['01/26/23', 'Write a list of things you are grateful for'],
+      ['01/26/23', 'Write a list of things you are grateful for'],
 ['01/27/23', 'Meditate for five minutes'],
 ['01/28/23', 'Do something you used to do as a kid'],
 ['01/29/23', 'Sit in the dark and listen to your favorite music with no distractions'],
+['01/30/23', "Watch a movie you'd never usually watch"],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['01/20/23', 0.124998],
-['01/21/23', 0.093789],
+       ['01/21/23', 0.093789],
 ['01/22/23', 0.078148],
 ['01/23/23', 0.156284],
 ['01/24/23', 0.015613],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['01/27/23', 0.156272],
 ['01/28/23', 0.140632],
 ['01/29/23', 0.109374],
+['01/30/23', 0.078126],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    01/29/2023 07:25'
+        title: 'API Performance - Last 10 Results as of:    01/30/2023 07:29'
       };
 
 
