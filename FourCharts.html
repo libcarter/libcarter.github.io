@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    02/05/2023 07:26'
+        title: 'Last Test Results as of:    02/06/2023 07:30'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    02/05/2023 07:26'
+        title: 'Combined Results Last 4 Test Runs as of:    02/06/2023 07:30'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['02/01/23', 'Look at pictures and videos of cute animals'],
-['02/02/23', 'Look at pictures and videos of cute animals'],
+      ['02/02/23', 'Look at pictures and videos of cute animals'],
 ['02/03/23', 'Go to the library and find an interesting book'],
 ['02/04/23', 'Go stargazing'],
 ['02/05/23', 'Go to a nail salon'],
+['02/06/23', "Plan a vacation you've always wanted to take"],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['01/27/23', 0.156272],
-['01/28/23', 0.140632],
+       ['01/28/23', 0.140632],
 ['01/29/23', 0.109374],
 ['01/30/23', 0.078126],
 ['01/31/23', 0.109381],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['02/03/23', 0.171947],
 ['02/04/23', 0.015619],
 ['02/05/23', 0.078133],
+['02/06/23', 0.062494],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    02/05/2023 07:26'
+        title: 'API Performance - Last 10 Results as of:    02/06/2023 07:30'
       };
 
 
