@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    03/20/2023 08:31'
+        title: 'Last Test Results as of:    03/21/2023 08:23'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    03/20/2023 08:31'
+        title: 'Combined Results Last 4 Test Runs as of:    03/21/2023 08:23'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['03/16/23', 'Shop at support your local farmers market'],
-['03/17/23', 'Go to the library and find an interesting book'],
+      ['03/17/23', 'Go to the library and find an interesting book'],
 ['03/18/23', 'Go on a long drive with no music'],
 ['03/19/23', 'Go stargazing'],
 ['03/20/23', "Watch a movie you'd never usually watch"],
+['03/21/23', 'Take your cat on a walk'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['03/11/23', 0.07769],
-['03/12/23', 0.015622],
+       ['03/12/23', 0.015622],
 ['03/13/23', 0.074877],
 ['03/14/23', 0.140612],
 ['03/15/23', 0.078294],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['03/18/23', 0.078059],
 ['03/19/23', 0.156239],
 ['03/20/23', 0.15621],
+['03/21/23', 0.125176],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    03/20/2023 08:31'
+        title: 'API Performance - Last 10 Results as of:    03/21/2023 08:23'
       };
 
 
