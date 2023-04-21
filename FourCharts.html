@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    04/20/2023 08:28'
+        title: 'Last Test Results as of:    04/21/2023 08:24'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    04/20/2023 08:28'
+        title: 'Combined Results Last 4 Test Runs as of:    04/21/2023 08:24'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['04/16/23', "Watch a movie you'd never usually watch"],
-['04/17/23', 'Look at pictures and videos of cute animals'],
+      ['04/17/23', 'Look at pictures and videos of cute animals'],
 ['04/18/23', 'Color'],
 ['04/19/23', 'Go for a walk'],
 ['04/20/23', 'Go to the library and find an interesting book'],
+['04/21/23', 'Shop at support your local farmers market'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['04/11/23', 0.09369],
-['04/12/23', 0.015688],
+       ['04/12/23', 0.015688],
 ['04/13/23', 0.015559],
 ['04/14/23', 0.015634],
 ['04/15/23', 0.172219],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['04/18/23', 0.015642],
 ['04/19/23', 0.093734],
 ['04/20/23', 0.015583],
+['04/21/23', 0.093719],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    04/20/2023 08:28'
+        title: 'API Performance - Last 10 Results as of:    04/21/2023 08:24'
       };
 
 
