@@ -3034,3 +3034,7 @@ Test 01,Verify API Returned status 200 with valid data,08/19/23,15:21,Pass,200,T
 Test 02,Verify api returned status 200 but no data,08/19/23,15:21,Pass,200,There was an error but the API returned status 200,none
 Test 03,Verify api returned status 200 but no data,08/19/23,15:21,Pass,400,The API did not return status of 200,none
 Test 04,Verify api returned status 200 in less than 3 seconds,08/19/23,15:21,Pass,200,The API returned status of 200 in less than 3 seconds,0.015574
+Test 01,Verify API Returned status 200 with valid data,08/20/23,15:21,Pass,200,The API returned status of 200 as expected,Shop at support your local farmers market
+Test 02,Verify api returned status 200 but no data,08/20/23,15:21,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,08/20/23,15:21,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,08/20/23,15:21,Pass,200,The API returned status of 200 in less than 3 seconds,0.031214
