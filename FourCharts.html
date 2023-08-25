@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    08/24/2023 08:24'
+        title: 'Last Test Results as of:    08/25/2023 08:26'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    08/24/2023 08:24'
+        title: 'Combined Results Last 4 Test Runs as of:    08/25/2023 08:26'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['08/20/23', 'Shop at support your local farmers market'],
-['08/21/23', 'Pot some plants and put them around your house'],
+      ['08/21/23', 'Pot some plants and put them around your house'],
 ['08/22/23', 'Take a nap'],
 ['08/23/23', "Start a book you've never gotten around to reading"],
 ['08/24/23', 'Do something you used to do as a kid'],
+['08/25/23', 'Sit in the dark and listen to your favorite music with no distractions'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['08/15/23', 0.109378],
-['08/16/23', 0.203147],
+       ['08/16/23', 0.203147],
 ['08/17/23', 0.031244],
 ['08/18/23', 0.156239],
 ['08/19/23', 0.015574],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['08/22/23', 0.015614],
 ['08/23/23', 0.015624],
 ['08/24/23', 0.015629],
+['08/25/23', 0.015662],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    08/24/2023 08:24'
+        title: 'API Performance - Last 10 Results as of:    08/25/2023 08:26'
       };
 
 
