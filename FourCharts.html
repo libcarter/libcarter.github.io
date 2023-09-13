@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    09/12/2023 08:24'
+        title: 'Last Test Results as of:    09/13/2023 08:25'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    09/12/2023 08:24'
+        title: 'Combined Results Last 4 Test Runs as of:    09/13/2023 08:25'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['09/08/23', 'Take a nap'],
-['09/09/23', "Start a book you've never gotten around to reading"],
+      ['09/09/23', "Start a book you've never gotten around to reading"],
 ['09/10/23', 'Take your cat on a walk'],
 ['09/11/23', 'Go to the library and find an interesting book'],
 ['09/12/23', 'Look at pictures and videos of cute animals'],
+['09/13/23', 'Look at pictures and videos of cute animals'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['09/03/23', 0.078066],
-['09/04/23', 0.015598],
+       ['09/04/23', 0.015598],
 ['09/05/23', 0.154848],
 ['09/06/23', 0.1414],
 ['09/07/23', 0.015027],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['09/10/23', 0.093752],
 ['09/11/23', 0.015613],
 ['09/12/23', 0.031265],
+['09/13/23', 0.093674],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    09/12/2023 08:24'
+        title: 'API Performance - Last 10 Results as of:    09/13/2023 08:25'
       };
 
 
