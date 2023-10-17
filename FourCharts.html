@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    10/16/2023 08:24'
+        title: 'Last Test Results as of:    10/17/2023 08:26'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    10/16/2023 08:24'
+        title: 'Combined Results Last 4 Test Runs as of:    10/17/2023 08:26'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['10/12/23', 'Give your pet ten minutes of focused attention'],
-['10/13/23', "Watch a movie you'd never usually watch"],
+      ['10/13/23', "Watch a movie you'd never usually watch"],
 ['10/14/23', 'Look at pictures and videos of cute animals'],
 ['10/15/23', 'Give your pet ten minutes of focused attention'],
 ['10/16/23', "Watch a movie you'd never usually watch"],
+['10/17/23', 'Pot some plants and put them around your house'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['10/07/23', 0.03125],
-['10/08/23', 0.153436],
+       ['10/08/23', 0.153436],
 ['10/09/23', 0.124992],
 ['10/10/23', 0.140601],
 ['10/11/23', 0.0781],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['10/14/23', 0.12485],
 ['10/15/23', 0.015637],
 ['10/16/23', 0.125455],
+['10/17/23', 0.015688],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    10/16/2023 08:24'
+        title: 'API Performance - Last 10 Results as of:    10/17/2023 08:26'
       };
 
 
