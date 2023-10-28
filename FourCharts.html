@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    10/27/2023 08:23'
+        title: 'Last Test Results as of:    10/28/2023 08:23'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    10/27/2023 08:23'
+        title: 'Combined Results Last 4 Test Runs as of:    10/28/2023 08:23'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['10/23/23', 'Take a nap'],
-['10/24/23', 'Look at pictures and videos of cute animals'],
+      ['10/24/23', 'Look at pictures and videos of cute animals'],
 ['10/25/23', 'Go on a long drive with no music'],
 ['10/26/23', "Watch a movie you'd never usually watch"],
 ['10/27/23', 'Go to the library and find an interesting book'],
+['10/28/23', 'Give your pet ten minutes of focused attention'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['10/18/23', 0.12495],
-['10/19/23', 0.0],
+       ['10/19/23', 0.0],
 ['10/20/23', 0.015644],
 ['10/21/23', 0.015626],
 ['10/22/23', 0.156241],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['10/25/23', 0.157131],
 ['10/26/23', 0.015703],
 ['10/27/23', 0.015745],
+['10/28/23', 0.015571],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    10/27/2023 08:23'
+        title: 'API Performance - Last 10 Results as of:    10/28/2023 08:23'
       };
 
 
