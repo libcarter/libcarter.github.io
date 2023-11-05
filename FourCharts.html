@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    11/04/2023 08:22'
+        title: 'Last Test Results as of:    11/05/2023 07:22'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    11/04/2023 08:22'
+        title: 'Combined Results Last 4 Test Runs as of:    11/05/2023 07:22'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['10/30/23', "Start a book you've never gotten around to reading"],
-['10/31/23', 'Go to the library and find an interesting book'],
+      ['10/31/23', 'Go to the library and find an interesting book'],
 ['11/02/23', 'Look at pictures and videos of cute animals'],
 ['11/03/23', 'Take a caffeine nap'],
 ['11/04/23', "Plan a vacation you've always wanted to take"],
+['11/05/23', 'Teach your dog a new trick'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['10/25/23', 0.157131],
-['10/26/23', 0.015703],
+       ['10/26/23', 0.015703],
 ['10/27/23', 0.015745],
 ['10/28/23', 0.015571],
 ['10/29/23', 0.015696],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['11/02/23', 0.17253],
 ['11/03/23', 0.01559],
 ['11/04/23', 0.0],
+['11/05/23', 0.015627],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    11/04/2023 08:22'
+        title: 'API Performance - Last 10 Results as of:    11/05/2023 07:22'
       };
 
 
