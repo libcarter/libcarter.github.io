@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    12/02/2023 07:22'
+        title: 'Last Test Results as of:    12/03/2023 07:23'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    12/02/2023 07:22'
+        title: 'Combined Results Last 4 Test Runs as of:    12/03/2023 07:23'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['11/28/23', 'Go to the library and find an interesting book'],
-['11/29/23', 'Go for a walk'],
+      ['11/29/23', 'Go for a walk'],
 ['11/30/23', 'Sit in the dark and listen to your favorite music with no distractions'],
 ['12/01/23', 'Start a daily journal'],
 ['12/02/23', 'Sit in the dark and listen to your favorite music with no distractions'],
+['12/03/23', 'Go stargazing'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['11/19/23', 0.140602],
-['11/20/23', 0.046857],
+       ['11/20/23', 0.046857],
 ['11/25/23', 0.015614],
 ['11/26/23', 0.140628],
 ['11/27/23', 0.156251],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['11/30/23', 0.156214],
 ['12/01/23', 0.15625],
 ['12/02/23', 0.140907],
+['12/03/23', 0.14062],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    12/02/2023 07:22'
+        title: 'API Performance - Last 10 Results as of:    12/03/2023 07:23'
       };
 
 
