@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    12/25/2023 07:24'
+        title: 'Last Test Results as of:    12/26/2023 07:23'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    12/25/2023 07:24'
+        title: 'Combined Results Last 4 Test Runs as of:    12/26/2023 07:23'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['12/21/23', 'Pot some plants and put them around your house'],
-['12/22/23', 'Write a list of things you are grateful for'],
+      ['12/22/23', 'Write a list of things you are grateful for'],
 ['12/23/23', 'Take your dog on a walk'],
 ['12/24/23', "Plan a vacation you've always wanted to take"],
 ['12/25/23', 'Go to the library and find an interesting book'],
+['12/26/23', 'Go for a walk'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['12/16/23', 0.140695],
-['12/17/23', 0.015654],
+       ['12/17/23', 0.015654],
 ['12/18/23', 0.140117],
 ['12/19/23', 0.015629],
 ['12/20/23', 0.15625],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['12/23/23', 0.156446],
 ['12/24/23', 0.10938],
 ['12/25/23', 0.140624],
+['12/26/23', 0.140707],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    12/25/2023 07:24'
+        title: 'API Performance - Last 10 Results as of:    12/26/2023 07:23'
       };
 
 
