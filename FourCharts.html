@@ -12,12 +12,12 @@
        ['Test 01', 1, 0],
 ['Test 02', 1, 0],
 ['Test 03', 1, 0],
-['Test 04', 1, 0],
+['Test 04', 0, 1],
 
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    02/22/2024 07:25'
+        title: 'Last Test Results as of:    02/23/2024 07:26'
       };
 
 
@@ -48,12 +48,13 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Test Results', 'Pass/Fail'],
-       ['Pass', 16],
+       ['Pass', 15],
+['Fail', 1],
 
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    02/22/2024 07:25'
+        title: 'Combined Results Last 4 Test Runs as of:    02/23/2024 07:26'
       };
 
 
@@ -87,11 +88,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['02/18/24', 'Listen to a new podcast'],
-['02/19/24', 'Pot some plants and put them around your house'],
+      ['02/19/24', 'Pot some plants and put them around your house'],
 ['02/20/24', 'Take your cat on a walk'],
 ['02/21/24', 'Teach your dog a new trick'],
 ['02/22/24', 'Start a daily journal'],
+['02/23/24', 'Draw and color a Mandala'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +123,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['02/13/24', 0.15625],
-['02/14/24', 0.15626],
+       ['02/14/24', 0.15626],
 ['02/15/24', 0.015625],
 ['02/16/24', 0.188235],
 ['02/17/24', 0.015623],
@@ -135,7 +135,7 @@ div{position: absolute; padding: 1px}
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    02/22/2024 07:25'
+        title: 'API Performance - Last 10 Results as of:    02/23/2024 07:26'
       };
 
 
