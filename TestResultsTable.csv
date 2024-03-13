@@ -3834,3 +3834,7 @@ Test 01,Verify API Returned status 200 with valid data,03/12/24,15:24,Pass,200,T
 Test 02,Verify api returned status 200 but no data,03/12/24,15:24,Pass,200,There was an error but the API returned status 200,none
 Test 03,Verify api returned status 200 but no data,03/12/24,15:24,Pass,400,The API did not return status of 200,none
 Test 04,Verify api returned status 200 in less than 3 seconds,03/12/24,15:24,Pass,200,The API returned status of 200 in less than 3 seconds,0.015598
+Test 01,Verify API Returned status 200 with valid data,03/13/24,15:25,Pass,200,The API returned status of 200 as expected,Give your pet ten minutes of focused attention
+Test 02,Verify api returned status 200 but no data,03/13/24,15:25,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,03/13/24,15:25,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,03/13/24,15:25,Pass,200,The API returned status of 200 in less than 3 seconds,0.140617
