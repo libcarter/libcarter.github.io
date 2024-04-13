@@ -17,7 +17,7 @@
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Last Test Results as of:    04/12/2024 08:25'
+        title: 'Last Test Results as of:    04/13/2024 08:19'
       };
 
 
@@ -53,7 +53,7 @@ div{position: absolute; padding: 1px}
       ],
       false); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'Combined Results Last 4 Test Runs as of:    04/12/2024 08:25'
+        title: 'Combined Results Last 4 Test Runs as of:    04/13/2024 08:19'
       };
 
 
@@ -87,11 +87,11 @@ div{position: absolute; padding: 1px}
       data.addColumn('string', 'Date');
       data.addColumn('string','Last 5 Results - Things To Do For Boredom');
       data.addRows([
-      ['04/08/24', 'Sit in the dark and listen to your favorite music with no distractions'],
-['04/09/24', 'Go on a long drive with no music'],
+      ['04/09/24', 'Go on a long drive with no music'],
 ['04/10/24', 'Color'],
 ['04/11/24', 'Draw and color a Mandala'],
 ['04/12/24', 'Look at pictures and videos of cute animals'],
+['04/13/24', 'Write a list of things you are grateful for'],
 
       ]); 
   var table = new google.visualization.Table(document.getElementById('sw'));
@@ -122,8 +122,7 @@ div{position: absolute; padding: 1px}
   function drawChart () {   
       var data = google.visualization.arrayToDataTable([
        ['Date', 'Run Time'],
-       ['04/03/24', 0.12496],
-['04/04/24', 0.14064],
+       ['04/04/24', 0.14064],
 ['04/05/24', 0.156321],
 ['04/06/24', 0.015619],
 ['04/07/24', 0.140634],
@@ -132,10 +131,11 @@ div{position: absolute; padding: 1px}
 ['04/10/24', 0.140951],
 ['04/11/24', 0.546909],
 ['04/12/24', 0.437522],
+['04/13/24', 0.124996],
 
       ]); // 'false' means that the first row contains labels, not data.
         var options = {
-        title: 'API Performance - Last 10 Results as of:    04/12/2024 08:25'
+        title: 'API Performance - Last 10 Results as of:    04/13/2024 08:19'
       };
 
 
