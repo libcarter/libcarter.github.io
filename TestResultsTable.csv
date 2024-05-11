@@ -4070,3 +4070,7 @@ Test 01,Verify API Returned status 200 with valid data,05/10/24,15:25,Pass,200,T
 Test 02,Verify api returned status 200 but no data,05/10/24,15:25,Pass,200,There was an error but the API returned status 200,none
 Test 03,Verify api returned status 200 but no data,05/10/24,15:25,Pass,400,The API did not return status of 200,none
 Test 04,Verify api returned status 200 in less than 3 seconds,05/10/24,15:25,Pass,200,The API returned status of 200 in less than 3 seconds,0.169853
+Test 01,Verify API Returned status 200 with valid data,05/11/24,15:23,Pass,200,The API returned status of 200 as expected,Start a book you've never gotten around to reading
+Test 02,Verify api returned status 200 but no data,05/11/24,15:23,Pass,200,There was an error but the API returned status 200,none
+Test 03,Verify api returned status 200 but no data,05/11/24,15:23,Pass,400,The API did not return status of 200,none
+Test 04,Verify api returned status 200 in less than 3 seconds,05/11/24,15:23,Pass,200,The API returned status of 200 in less than 3 seconds,0.015629
